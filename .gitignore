@@ -49,10 +49,3 @@ package.json
 /man/
 /share/
 /src/
-
-# For odoo
-/addons/
-/doc/
-/debian/
-/odoo/
-/setup/
